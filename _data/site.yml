@@ -1,0 +1,9 @@
+title: Tessellate Labs
+tagline: Research and engineering for efficient data systems
+nav:
+  - title: Profile
+    url: /profile/
+  - title: Field Reports
+    url: /field-reports/
+  - title: Resume
+    url: /resume/

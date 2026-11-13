@@ -1,0 +1,32 @@
+name: Noemi Halvorsen
+headline: Principal Research Engineer
+organisation: Tessellate Labs
+location: Lisbon, Portugal
+bio: >-
+  Noemi Halvorsen is a research engineer working on efficient machine-learning
+  systems, data infrastructure, and large-scale retrieval. She leads the
+  inference-systems group at Tessellate Labs.
+experience:
+  - org: Tessellate Labs
+    role: Principal Research Engineer
+    period: 2023-present
+    summary: Leads the inference-systems group; ships low-latency model serving and data pipelines for clients in media and logistics.
+  - org: Corvane Analytics
+    role: Senior Machine Learning Engineer
+    period: 2019-2023
+    summary: Built feature stores and ranking services; owned the experiment platform.
+  - org: Bluefin Systems
+    role: Data Engineer
+    period: 2016-2019
+    summary: Designed batch and streaming ingestion for telemetry.
+education:
+  - degree: M.Sc. Computer Science
+    institution: Instituto Superior Tecnico
+    year: 2016
+  - degree: B.Sc. Software Engineering
+    institution: University of Porto
+    year: 2014
+contact:
+  email: noemi@tessellate-labs.io
+  github: https://github.com/nhalvorsen-demo
+  linkedin: https://www.linkedin.com/in/noemi-halvorsen-demo
